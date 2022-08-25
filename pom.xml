@@ -13,4 +13,13 @@
     <artifactId>testGsil</artifactId>
     <packaging>jar</packaging>
 
+         
+         
+  <dependencies>
+        <dependency>
+            <groupId>com.ne.boot</groupId>
+          <artifactId>ne-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+</dependencies>
 </project>
